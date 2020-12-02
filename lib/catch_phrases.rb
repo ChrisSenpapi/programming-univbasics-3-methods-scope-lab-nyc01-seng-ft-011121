@@ -14,6 +14,5 @@ def link
 end
 
 def all_phrases(mario, toadstool, link)
-  puts phrase
-  puts status
+  puts all of the previous catch phrases
 end
