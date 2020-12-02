@@ -14,6 +14,4 @@ def link
 end
 
 def all_phrases 
-  previous_phrases = phrase, status
-  puts previous_phrases
-end
+  
