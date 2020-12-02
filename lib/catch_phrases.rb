@@ -13,6 +13,5 @@ def link
   puts phrase
 end
 
-def all_phrases(mario, toadstool, link)
-  puts all of the previous catch phrases
-end
+def all_phrases
+  
